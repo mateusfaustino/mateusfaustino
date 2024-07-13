@@ -1,5 +1,5 @@
 # Welcome to my profile!
-<p> 👦🏼 My name is Mateus Faustino, I'm Full stack developer and my main stack is Front end
+<p> 👦🏼 My name is Mateus Faustino, Full stack developer.
 <br><br>
 💻 Currently I work as a Laravel and React developer in FIEC.
 </p>
